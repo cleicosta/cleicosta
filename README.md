@@ -1,11 +1,13 @@
-# Olá! Eu me chamo Cleimairton Costa.
- - Atualmente sou desenvolvedor web.
+
+ # Olá! Eu me chamo Cleimairton Costa.
+
+- Atualmente sou desenvolvedor web.
 - Estudo para ser um desenvolvedor fullstack.
 - Atualmente estou aprendendo a linguagem Java.
 - Você pode entrar em contato comigo pelo:
 - um fato curioso: Gosto de codar ouvindo lofi.
 
-<p align="left">
+<p aling="">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=cleicosta&show_icons=true&theme=vision-friendly-dark" alt="CleiCosta stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleicosta&layout=compact&theme=vision-friendly-dark" alt="cleicosta most languages"/>
 </p>
