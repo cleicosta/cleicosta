@@ -4,7 +4,6 @@
 - Atualmente sou desenvolvedor web.
 - Estudo para ser um desenvolvedor fullstack.
 - Atualmente estou aprendendo a linguagem Java.
-- Você pode entrar em contato comigo pelo:
 - um fato curioso: Gosto de codar ouvindo lofi.
 
 <p aling="">
